@@ -1,0 +1,9 @@
+name: MainMC
+main: MainMC.Nothing00.MainPlugin
+version: 3.1
+author: Nothing00
+description: The Main Minecraft server plugin
+commands:
+     MainMC:
+        description: main plugin command
+        aliases: [main, mmc]
